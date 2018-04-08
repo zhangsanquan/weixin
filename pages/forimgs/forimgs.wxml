@@ -1,0 +1,5 @@
+
+<block wx:for="{{imgsrc}}">    <!--  好像必须用block 包起来。。  -->
+   <image src="{{item.src}}" class="img"></image>
+   <view style="text-align:center">{{item.text}}</view>
+</block>

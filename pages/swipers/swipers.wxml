@@ -1,0 +1,8 @@
+<swiper indictor-dots="{{indicatorDots}}" autoplay="{{ autoplay}}" interval="{{interval}}" display-multiple-items="{{indicatorDots}}">
+    <swiper-item wx:for="{{imgUrls}}">
+      <image src="{{item}}" class="swiper_img"/>  <!-- 通过class设置图片100% -->
+    </swiper-item>
+</swiper>
+
+
+

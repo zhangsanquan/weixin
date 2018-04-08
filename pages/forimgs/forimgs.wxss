@@ -1,0 +1,4 @@
+/* pages/forimgs/forimgs.wxss */
+.img{
+  width:100%;
+}

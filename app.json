@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/tabs/tabs",
+    "pages/openPhotos/openPhotos",
+    "pages/swipers/swipers",
+    "pages/camera/camera",
+    "pages/forimgs/forimgs",
+    "pages/button/button",
+    "pages/picker/picker"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "傻培",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#ddd",
+    "selectedColor": "#3cc51f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/首页.png",
+        "selectedIconPath": "images/home.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/button/button",
+        "iconPath": "images/日志.png",
+        "selectedIconPath": "images/日志.png",
+        "text": "按钮"
+      },
+      {
+        "pagePath": "pages/tabs/tabs",
+        "iconPath": "images/地图.png",
+        "selectedIconPath": "images/map.png",
+        "text": "地图"
+      }
+    ]
+  }
+}

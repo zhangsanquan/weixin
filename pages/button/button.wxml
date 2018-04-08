@@ -1,0 +1,14 @@
+<button type="primary" bindtap="goPicker" >go Picker</button>
+
+<button bindtap="goCamera">go Camera</button>
+
+<button type="primary" bindtap="goImage">go Image</button>
+
+<button bindtap="goOpenPhoto">go OpenPhoto</button>
+
+<button type="primary" bindtap="goSwiper">go Swiper</button>
+
+<button size="mini" type="warn">mini</button> <button size="mini">mini</button>
+
+<button plain="{{true}}">go</button>
+

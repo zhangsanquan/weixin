@@ -1,0 +1,8 @@
+
+<button bindtap="openimg" hover-class=''>打开相册</button>
+
+<image data-src="{{imgsrc}}"> </image>
+
+
+<wxs src="./test.wxs" module="test" />
+<view>{{test.a}}</view>  <!-- 19 -->

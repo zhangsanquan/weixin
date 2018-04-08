@@ -1,0 +1,7 @@
+/* pages/camera/camer.wxss */
+image{
+  border: 1px solid ;
+}
+view{
+  text-align: center;
+}
